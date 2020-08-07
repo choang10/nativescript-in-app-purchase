@@ -90,7 +90,7 @@ export declare class InAppProduct {
    * 
    * @param nativeValue The original OS specific product entity
    */
-  constructor(public nativeValue: any)
+  constructor(nativeValue: any)
 }
 
 export declare class InAppPurchaseTransactionState {
@@ -103,7 +103,7 @@ export declare class InAppPurchaseTransactionState {
    * @param nativeValue The underlying OS specific purchase transaction.<br/>
    *                    May be <code>undefined</code>
    */
-  constructor(public nativeValue: any)
+  constructor(nativeValue: any)
 }
 
 export declare interface IInAppPurchaseResult {

@@ -1,6 +1,6 @@
 {
-	"name": "nativescript-in-app-purchase",
-	"version": "1.0.1",
+	"name": "@courthoang/nativescript-in-app-purchase",
+	"version": "1.0.2",
 	"description": "NativeScript plugin to handle in app purchases and subscriptions on Android and iOS.",
 	"main": "in-app-purchase",
 	"typings": "index.d.ts",
@@ -12,7 +12,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/daniele-pecora/nativescript-in-app-purchase.git"
+		"url": "https://github.com/choang10/nativescript-in-app-purchase.git"
 	},
 	"scripts": {
 		"tsc": "npm i && tsc",
